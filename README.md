@@ -1,5 +1,6 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&color=#6e0fcc" height="100%" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&color=6e0fcc&fontColor=ffffff" width="100%" />
+
 </div>
 
 <div>
@@ -20,5 +21,5 @@
 <img src="https://skillicons.dev/icons?i=github" />
  <img src="https://skillicons.dev/icons?i=git" />
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#6e0fcc&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6e0fcc&section=footer">
 </div>

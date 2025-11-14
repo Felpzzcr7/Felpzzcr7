@@ -1,10 +1,10 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&color=FF0000" height="100%" width="100%">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&color=#6e0fcc" height="100%" width="100%">
 </div>
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felpzzcr7&show_icons=true&layout=compact&theme=shadow_red"") /> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felpzzcr7&layout=compact&theme=shadow_red" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felpzzcr7&show_icons=true&layout=compact&theme=midnight-purple"") /> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felpzzcr7&layout=compact&theme=midnight-purple" />
 </div>
 
 # Skills 💾
@@ -20,5 +20,5 @@
 <img src="https://skillicons.dev/icons?i=github" />
  <img src="https://skillicons.dev/icons?i=git" />
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#6e0fcc&section=footer">
 </div>

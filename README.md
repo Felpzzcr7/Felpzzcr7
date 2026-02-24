@@ -19,6 +19,8 @@
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=github" />
  <img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6e0fcc&section=footer">
 </div>

@@ -20,6 +20,7 @@
 <img src="https://skillicons.dev/icons?i=github" />
  <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=java" />
 
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6e0fcc&section=footer">

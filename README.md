@@ -30,17 +30,6 @@
 
 <div align="center">
 
-<h1>Statistics</h1>
-</div>
-
----
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felpzzcr7&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=4b128a"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felpzzcr7&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=4b128a"/>
-
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6e0fcc&section=footer">
 </div>

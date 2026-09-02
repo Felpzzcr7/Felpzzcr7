@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&color=6e0fcc&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&color=AEE2FA&fontColor=ffffff" width="100%" />
 
 </div>
 
@@ -29,7 +29,9 @@
 </div>
 
 <div align="center">
+ 
+<img width="1376" height="768" alt="Instinto-Superior-Goku-Manga-vs-Anime" src="https://github.com/user-attachments/assets/56462418-269f-434a-8d56-128027ccc27c" />
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6e0fcc&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=AEE2FA&section=footer">
 </div>

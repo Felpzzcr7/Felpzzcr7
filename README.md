@@ -30,7 +30,7 @@
 
 <div align="center">
  
-<img width="810" height="456" alt="gifgoku" src="https://github.com/user-attachments/assets/d38c89b9-3f61-4c68-8d84-ef7a6fc0773f" />
+<img width="540" height="304" alt="gifgoku" src="https://github.com/user-attachments/assets/d38c89b9-3f61-4c68-8d84-ef7a6fc0773f" />
 
 
 

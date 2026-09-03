@@ -30,7 +30,8 @@
 
 <div align="center">
  
-<img width="1376" height="768" alt="Instinto-Superior-Goku-Manga-vs-Anime" src="https://github.com/user-attachments/assets/56462418-269f-434a-8d56-128027ccc27c" />
+<img width="540" height="304" alt="gifgoku" src="https://github.com/user-attachments/assets/d38c89b9-3f61-4c68-8d84-ef7a6fc0773f" />
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=AEE2FA&section=footer">

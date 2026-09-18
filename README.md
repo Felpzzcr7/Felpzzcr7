@@ -3,10 +3,6 @@
 
 </div>
 
-<div>
-
-</div>
-
 <div align="center">
 
 # Skills 💻
@@ -26,7 +22,20 @@
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=java" />
 
+ <div align='center'>
+    <a> <img height=200 align="center" 
+        src="https://github-stats-extended.vercel.app/api?username=Felpzzcr7&theme=dark" 
+    /> </a>
+    <a> <img height=200 align="center" 
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=Felpzzcr7&theme=dark&layout=compact&langs_count=8&card_width=320"
+    /> </a>
+
+  
+  </div>
+  
 </div>
+
+
 
 <div align="center">
  
